@@ -1,15 +1,15 @@
 # SomeResources
 一些开源的资源
 
-1)JPEG Libs:
+1) JPEG Libs:
   http://www.ijg.org
-
+  
 2) SDL: 简单媒体库, 基于 OSG: Open Scene Graph
   http://www.libsdl.org
   
-3）DOSBox: DOS 仿真器，可运行老旧游戏
+3) DOSBox: DOS 仿真器，可运行老旧游戏
   https://www.dosbox.com
-
+ 
 4）Falcon BSM
 a) MFDExtractorServer:
   https://github.com/Karethoth/MFDExtractorServer
