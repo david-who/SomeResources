@@ -1,5 +1,7 @@
 # SomeResources
 一些开源的资源
+0) A curated list of amazingly awesome Elixir and Erlang libraries:
+  https://github.com/h4cc/awesome-elixir#awesome-elixir
 
 1) JPEG Libs:
   http://www.ijg.org
