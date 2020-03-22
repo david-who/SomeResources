@@ -32,3 +32,8 @@
   b) Xplane XTextureExtractor: 从 XPlane 提取仪表纹理显示
   https://github.com/waynepiekarski/XTextureExtractor
 
+6）微信 Tweak
+
+  Mac 微信双开/防止撤回/免验证登录的方法
+  https://github.com/Sunnyyoung/WeChatTweak-macOS
+
