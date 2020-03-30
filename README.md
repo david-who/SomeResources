@@ -22,10 +22,10 @@
  
 4) Falcon BSM
 
-  a) Falcon lightnings tools:
+a) Falcon lightnings tools:
   https://github.com/lightningviper/lightningstools
   
-  b) Weapon Delivery Planner:
+b) Weapon Delivery Planner:
   http://www.weapondeliveryplanner.nl/index.html
   
   c) MFDExtractorServer:
