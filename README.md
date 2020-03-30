@@ -19,7 +19,7 @@
 
 [官网](http://vjoystick.sourceforge.net/site/)
 
-[GitHub]https://github.com/shauleiz/vJoy)
+[GitHub](https://github.com/shauleiz/vJoy)
  
 # Falcon BSM #
 
