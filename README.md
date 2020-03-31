@@ -20,7 +20,10 @@
 [官网](http://vjoystick.sourceforge.net/site/)
 
 [GitHub](https://github.com/shauleiz/vJoy)
- 
+
+## Inno Setup ##
+**windows 安装器 [Innosetup](https://github.com/jrsoftware/issrc)**
+
 ## Falcon BSM ##
 
 1) [Falcon lightnings tools](
