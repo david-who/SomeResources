@@ -16,8 +16,7 @@
 
 ## 虚拟 Joystick 设备驱动 ##
 
-**仅支持 Win7 以下系统**
-1) [PPJoy](https://github.com/elitak/PPJoy)
+1) [PPJoy](https://github.com/elitak/PPJoy):仅支持 Win7 以下系统
 
 2) VJoy: 支持 Win7-WIn10 以上系统
 
@@ -25,8 +24,12 @@
 
 [GitHub](https://github.com/shauleiz/vJoy)
 
-## Inno Setup ##
-**windows 安装器 [Innosetup](https://github.com/jrsoftware/issrc)**
+## 程序安装器 ##
+**Windows Scriptable Installer Builder**
+
+1) [Innosetup](https://github.com/jrsoftware/issrc)
+
+2) [NSIS (Nullsoft Scriptable Install System)](https://sourceforge.net/projects/nsis/files/NSIS%202/)
 
 ## Falcon BSM ##
 
