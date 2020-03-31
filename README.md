@@ -13,9 +13,13 @@
 
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
-  
-## VJoy: 设备驱动 ##
-**仿真 Joystick 输入**
+
+## 虚拟 Joystick 设备驱动 ##
+
+**仅支持 Win7 以下系统**
+1) [PPJoy](https://github.com/elitak/PPJoy)
+
+2) VJoy: 支持 Win7-WIn10 以上系统
 
 [官网](http://vjoystick.sourceforge.net/site/)
 
