@@ -14,6 +14,9 @@
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
 
+## XBOX 开发 ##
+**[XBox Development](https://github.com/command-tab/awesome-xbox-development)**
+
 ## 虚拟 Joystick 设备驱动 ##
 
 1) [PPJoy](https://github.com/elitak/PPJoy):仅支持 Win7 以下系统
