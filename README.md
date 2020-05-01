@@ -11,6 +11,9 @@
 3) SDL: 简单媒体库, 基于 OSG: Open Scene Graph
   http://www.libsdl.org
 
+4) Vulkan: OpenGL 次时代高级图形API
+  https://github.com/KhronosGroup/Vulkan-Samples
+
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
 
