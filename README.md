@@ -79,8 +79,8 @@
 
 2) [Unity Technologies - Evangelism Team](https://github.com/UnityTechnologies)
 
-3) [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)
+3) [Unity Technologies - bitbucket](https://bitbucket.org/Unity-Technologies/)
 
-4) [Best Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
+4) [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)
 
-4) [Unity Technologies - bitbucket](https://bitbucket.org/Unity-Technologies/)
+5) [Best Free Unity Assets](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
