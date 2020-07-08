@@ -14,6 +14,9 @@
 4) Vulkan: OpenGL 次时代高级图形API
   https://github.com/KhronosGroup/Vulkan-Samples
 
+5) OIS: Object Oriented Input System library (C++)
+  Object Oriented Input System (OIS) is meant to be a cross platform, simple solution for using all kinds of Input Devices (KeyBoards, Mice, Joysticks, etc) and feedback devices (e.g. forcefeedback)
+
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
 
