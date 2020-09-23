@@ -61,6 +61,11 @@
 
 2) [NSIS (Nullsoft Scriptable Install System)](https://sourceforge.net/projects/nsis/files/NSIS%202/)
 
+## DCS World ##
+
+1) [Helios Virtual Cockpit](https://www.digitalcombatsimulator.com/en/files/3302014/), Helios can be downloaded from GitHub (https://github.com/HeliosVirtualCockpit/Helios/releases)
+  
+
 ## Falcon BSM ##
 
 1) [Falcon lightnings tools](
