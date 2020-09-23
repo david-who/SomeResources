@@ -2,19 +2,40 @@
 
 ## 开源库: ##
 
-1) A curated list of amazingly awesome Elixir and Erlang libraries:[Elixir](
+1) [boost](https://www.boost.org): free peer-reviewed portable C++ source libraries(C++ 标准的实验库)
+
+2) [assimp](http://assimp.sourceforge.net/lib_html/), Open Asset Import Library, is a library to load and process geometric scenes from various data formats, (3D 模型): Collada, blender, 3ds, obj, mdl,...
+
+3) [zlib](http://www.zlib.net): 开源 zip 压缩
+
+4) [pnglib](http://www.libpng.org/pub/png/): PNG 图像库
+
+5) [freeimage](http://freeimage.sourceforge.net)(图像系统):	library for popular graphics image formats like PNG, BMP, JPEG, TIFF and others as needed by today's multimedia applications.
+
+6) [freetype](https://www.freetype.org)(字体系统): FreeType is a freely available software library to render fonts.
+
+7) [SFML](https://www.sfml-dev.org/)(窗口系统):	provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. 
+
+9) [GLEW](ttp://glew.sourceforge.net): The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library
+
+10) [glm](https://glm.g-truc.net/): OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
+
+11) OpenSceneGraph[OSG](http://www.openscenegraph.org): 是一个开源的三维引擎，被广泛的应用在可视化仿真、游戏、虚拟现实、科学计算、三维重建、地理信息、太空探索、石油矿产等领域。
+
+12) [OGRE](https://www.ogre3d.org): 轻量化 C++ 高性能实时的3D引擎, 主要基于 CPU，2 版本则基于 GPU。比 irrlicht 强大，更适合基于窗口系统
+
+13) A curated list of amazingly awesome Elixir and Erlang libraries:[Elixir](
   https://github.com/h4cc/awesome-elixir#awesome-elixir)
 
-2) JPEG Libs:
-  http://www.ijg.org
+14) [irrlicht](http://irrlicht.sourceforge.net): 轻量化 C++ 高性能实时的3D引擎，适合简单 3D 场景.
   
-3) SDL: 简单媒体库, 基于 OSG: Open Scene Graph
+15) SDL: 简单媒体库, 基于 OSG: Open Scene Graph
   http://www.libsdl.org
 
-4) Vulkan: OpenGL 次时代高级图形API
+16) Vulkan: OpenGL 次时代高级图形API
   https://github.com/KhronosGroup/Vulkan-Samples
 
-5) [OIS](https://github.com/wgois/OIS): Object Oriented Input System library (C++)
+17) [OIS](https://github.com/wgois/OIS): Object Oriented Input System library (C++)
   Object Oriented Input System (OIS) is meant to be a cross platform, simple solution for using all kinds of Input Devices (KeyBoards, Mice, Joysticks, etc) and feedback devices (e.g. forcefeedback)
 
 ## DOS 仿真器，可运行老旧游戏 ##
