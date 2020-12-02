@@ -34,6 +34,8 @@
 
 17) [OIS](https://github.com/wgois/OIS): Object Oriented Input System library (C++)
   Object Oriented Input System (OIS) is meant to be a cross platform, simple solution for using all kinds of Input Devices (KeyBoards, Mice, Joysticks, etc) and feedback devices (e.g. forcefeedback)
+  
+18) [OIS](https://github.com/MapWindow): 开源 GIS 库，类似 MapX, MapXtreme
 
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
