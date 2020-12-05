@@ -35,7 +35,7 @@
 17) [OIS](https://github.com/wgois/OIS): Object Oriented Input System library (C++)
   Object Oriented Input System (OIS) is meant to be a cross platform, simple solution for using all kinds of Input Devices (KeyBoards, Mice, Joysticks, etc) and feedback devices (e.g. forcefeedback)
   
-18) [OIS](https://github.com/MapWindow): 开源 GIS 库，类似 MapX, MapXtreme
+18) [GIS](https://github.com/MapWindow): 开源 GIS 库，类似 MapX, MapXtreme
 
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
@@ -63,7 +63,7 @@
 ## [DCS World](https://www.digitalcombatsimulator.com/en/index.php) ##
 
 1) [Helios Virtual Cockpit](https://www.digitalcombatsimulator.com/en/files/3302014/), Helios can be downloaded from GitHub (https://github.com/HeliosVirtualCockpit/Helios/releases)
-  
+
 
 ## Falcon BSM ##
 
