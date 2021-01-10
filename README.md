@@ -37,6 +37,8 @@
   
 18) [GIS](https://github.com/MapWindow): 开源 GIS 库，类似 MapX, MapXtreme
 
+19) [QT](https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/): QT open source. 跨平台 C++ 界面编程组件
+
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
 
