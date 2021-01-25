@@ -16,6 +16,8 @@
 
 7) [SFML](https://www.sfml-dev.org/)(窗口系统):	provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. 
 
+7) [imGUI](https://github.com/ocornut/imgui)(窗口系统): 开源 GUI 框架，需要集成到程序之中，跨平台，支持 MAC，Linux，Windows。支持 GL，GLES，Vulcan，DX9-12等
+
 9) [GLEW](http://glew.sourceforge.net): The OpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library
 
 10) [glm](https://glm.g-truc.net/): OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
