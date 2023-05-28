@@ -41,6 +41,13 @@
 
 19) [QT](https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/): QT open source. 跨平台 C++ 界面编程组件
 
+## MSFS
+** [FSDeveloper](https://www.fsdeveloper.com/) : MSFS, XPLANE, P3D 开发论坛
+
+**[AsoboStudio](https://github.com/AsoboStudio) : 官网开发插件，含 3ds Max， Blender 插件
+
+** [Blender2MFFS2](https://github.com/ronh991/Blender2MSFS2): Blender 导出为 MSFS 插件
+
 ## DOS 仿真器，可运行老旧游戏 ##
 **[DOSBox](https://www.dosbox.com)**
 
